@@ -10,15 +10,19 @@ Which means technically at the whole function returns true even if the width is 
 
 At(w,h):
 
-Returns the garbage value instead of INVALID/EMPTY/BLACK/WHITE.
+- Returns the garbage value instead of INVALID/EMPTY/BLACK/WHITE.
 
-For example: if you give at(110,5) - it should technically return INVALID/EMPTY/BLACK/WHITE but it returns 187230 (Which is garbage value).
+- For example: if you give at(110,5) - it should technically return INVALID/EMPTY/BLACK/WHITE but it returns 187230 (Which is garbage value).
 
 
 
-placePiece(-1): Give Core Dump! Whenever you call the function with placePiece (-1) it will give Core Dump.
+placePiece(-1): 
+
+- Give Core Dump! Whenever you call the function with placePiece (-1) it will give Core Dump.
  
 
 
-Constructor(2,2,4): Technically whenever you call such constructor it should give error because the grid is of 2x2.There is no way possible of 4 continuous blocks.
+Constructor(2,2,4): 
+
+- Technically whenever you call such constructor it should give error because the grid is of 2x2.There is no way possible of 4 continuous blocks.
 
