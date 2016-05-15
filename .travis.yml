@@ -2,4 +2,4 @@ language: c++
 compiler:
   - clang
   - gcc
-script: g++ ConnectX.h ConnectX.cpp 
+script: g++ main.cpp ConnectX.h ConnectX.cpp 
