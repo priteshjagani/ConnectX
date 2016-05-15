@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/priteshjagani/ConnectX.svg?branch=master)](https://travis-ci.org/priteshjagani/ConnectX)
+
+
+# ConnectX
+
 **Pritesh Jagani**
 
 Bugs Found:
