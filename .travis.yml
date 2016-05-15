@@ -3,3 +3,6 @@ compiler:
   - clang
   - gcc
 script: g++ main.cpp ConnectX.h ConnectX.cpp 
+
+notification: 
+   email: false
