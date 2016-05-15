@@ -2,7 +2,7 @@
  * Unit Tests for ConnectX class
 **/
 
-#include <gtest/gtest.h>
+//#include <gtest/gtest.h>
 #include <iostream>
 #include "ConnectX.h"
  
